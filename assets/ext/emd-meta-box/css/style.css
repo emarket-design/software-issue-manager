@@ -1,0 +1,127 @@
+/* =Styles for 'normal' meta boxes
+-------------------------------------------------------------- */
+
+.emd-mb-field {
+	margin: 10px 0;
+}
+.emd-mb-label,
+.emd-mb-input {
+	display: inline-block;
+	vertical-align: top;
+}
+.emd-mb-label {
+	width: 24%;
+}
+.emd-mb-label.required > span {
+	color: #c00;
+	font-weight: bold;
+}
+
+/* 75% if field has label, 100% if no label */
+.emd-mb-input {
+	width: 100%;
+}
+.emd-mb-label ~ .emd-mb-input {
+	width: 75%;
+}
+.emd-mb-input h4 {
+	margin: 0;
+}
+.emd-mb-textarea {
+	resize: vertical;
+}
+
+/* Clone */
+.emd-mb-clone {
+	min-height: 24px;
+	margin-bottom: 10px;
+	position: relative;
+	clear: both;
+	background: #fff;
+}
+.emd-mb-clone > input[type="radio"],
+.emd-mb-clone > input[type="checkbox"] {
+	margin: 6px 0 0 4px;
+}
+.emd-mb-button {
+	float: right;
+}
+.emd-mb-button.remove-clone {
+	text-decoration: none;
+	color: #fff;
+	background: #c00;
+	border-radius: 50%;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.remove-clone:focus {
+	outline: 0;
+	box-shadow: none;
+}
+.emd-mb-button.add-clone {
+	margin-top: 5px;
+}
+.emd-mb-clone-icon {
+	cursor: move;
+	background: url(../img/drag_icon.gif) no-repeat;
+	height: 23px;
+	width: 15px;
+	vertical-align: top;
+	display: inline-block;
+}
+.emd-mb-clone-placeholder {
+	background: #fcf8e3;
+	border: 1px solid #faebcc;
+	display: block;
+}
+/* Specific cloning styles for fields */
+.emd-mb-checkbox_list-clone > label:not(:first-of-type),
+.emd-mb-select-clone > .emd-mb-select-all-none,
+.emd-mb-select_advanced-clone > .emd-mb-select-all-none {
+	padding-left: 15px;
+}
+
+
+/* Fix empty block below admin footer (issue #24) */
+#ui-datepicker-div {
+	display: none;
+}
+
+/* jQuery validation */
+label.error {
+	padding-left: 3px;
+	color: red;
+}
+input.error,
+textarea.error,
+select.error {
+	border: #c00 solid 1px !important;
+	background: #ffebe8 !important;
+}
+
+
+/* =Styles for 'side' meta boxes
+-------------------------------------------------------------- */
+
+#side-sortables .emd-mb-label,
+#side-sortables .emd-mb-input {
+	width: 100%;
+}
+#commentsdiv ul{
+        list-style: inside none disc;
+}
+.control-section.accordion-section.open h3.accordion-section-title{
+background-color: #cccccc;
+    color: #212121;
+    font-weight:normal;
+}
+.control-section.accordion-section h3.accordion-section-title{
+background-color:#FAFAFA;
+    color: #212121;
+    font-weight:normal;
+}
+#customize-info.open .accordion-section-title:after, .control-section.open .accordion-section-title:after, .nav-menus-php .menu-item-edit-active .item-edit:before, .widget.open .widget-top a.widget-action:after {
+    color: white;
+}

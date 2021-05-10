@@ -1,0 +1,1373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-03-31T14:19:12-04:00\n"
+"POT-Creation-Date: 2021-03-31T14:19:12-04:00\n"
+
+#: software-issue-manager/includes/admin/getting-started.php:177
+msgid "Welcome to Software Issue Manager Community %s"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:181
+msgid "For effective and efficient issue management"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:183
+msgid "Upgrade Now"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:184
+msgid "Visit Pro Demo Site"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:186
+msgid "Getting Started"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:187
+msgid "Release Notes"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:188
+msgid "Resources"
+msgstr ""
+
+#: software-issue-manager/includes/admin/getting-started.php:189
+msgid "Features"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:21
+msgid "Software Issue Manager allows to track the resolution of every project issue in a productive and efficient way."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Software Issue Manager."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:26
+msgid "Issues"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:29
+msgid "An issue is anything that might affect the project meeting its goals such as bugs, tasks, and feature requests that occur during a project's life cycle."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:29
+#: software-issue-manager/includes/admin/glossary.php:183
+msgid "Attributes"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:31
+msgid "Title"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:32
+msgid " Title is a required field. Title does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:35
+#: software-issue-manager/includes/admin/glossary.php:185
+msgid "Content"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:36
+#: software-issue-manager/includes/admin/glossary.php:186
+msgid " Content does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:39
+msgid "ID"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:40
+msgid "Sets a unique identifier for an issue. Being a unique identifier, it uniquely distinguishes each instance of Issue entity. ID does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:43
+msgid "Due Date"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:44
+msgid "Sets the targeted resolution date for an issue. Due Date does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:47
+msgid "Resolution Summary"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:48
+msgid "Sets a brief summary of the resolution of an issue. Resolution Summary does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:51
+#: software-issue-manager/includes/admin/glossary.php:209
+msgid "Documents"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:52
+msgid "Allows to upload files related to an issue. Documents does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:55
+msgid "Email"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:56
+msgid " Email does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:59
+msgid "Form Name"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:60
+msgid " Form Name is filterable in the admin area. Form Name has a default value of <b>admin</b>."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:63
+msgid "Form Submitted By"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:64
+msgid " Form Submitted By is filterable in the admin area. Form Submitted By does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:67
+msgid "Form Submitted IP"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:68
+msgid " Form Submitted IP is filterable in the admin area. Form Submitted IP does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:69
+#: software-issue-manager/includes/admin/glossary.php:211
+msgid "Taxonomies"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:71
+msgid "Browser"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Sets the browser version that an issue may be reproduced in. Browser accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Browser does not have a default value"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "The following are the preset values for <b>Browser:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Chrome 33"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Internet Explorer 11"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Safari 7.0"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Opera 20"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:73
+msgid "Firefox 29"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:77
+msgid "Category"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:79
+msgid "Sets the category that an issue belongs to. Category accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:79
+msgid "Category has a default value of:"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:79
+msgid " bug"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:79
+msgid "The following are the preset values and value descriptions for <b>Category:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:80
+msgid "Bug"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:81
+msgid "Bugs are software problems or defects in the system that need to be resolved."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:84
+msgid "Feature Request"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:85
+msgid "Feature requests are functional enhancements submitted by clients."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:88
+msgid "Task"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:89
+msgid "Tasks are activities that need to be accomplished within a defined period of time or by a deadline to resolve issues."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:96
+#: software-issue-manager/includes/admin/glossary.php:213
+msgid "Priority"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:98
+msgid "Sets the priority level assigned to an issue. Priority accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:98
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "Priority has a default value of:"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:98
+msgid " normal"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:98
+msgid "The following are the preset values and value descriptions for <b>Priority:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:99
+msgid "Critical"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:100
+msgid "Critical bugs either render a system unusable (not being able to create content or upgrade between versions, blocks not displaying, and the like), cause loss of data, or expose security vulnerabilities. These bugs are to be fixed immediately."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:103
+msgid "Major"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:104
+msgid "Issues which have significant repercussions but do not render the whole system unusable are marked major. An example would be a PHP error which is only triggered under rare circumstances or which affects only a small percentage of all users. These issues are prioritized in the current development release and backported to stable releases where applicable. Major issues do not block point releases."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:107
+msgid "Normal"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:108
+msgid "Bugs that affect one piece of functionality are normal priority. An example would be the category filter not working on the database log screen. This is a self-contained bug and does not impact the overall functionality of the software."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:111
+msgid "Minor"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:112
+msgid "Minor priority is most often used for cosmetic issues that don't inhibit the functionality or main purpose of the project, such as correction of typos in code comments or whitespace issues."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:119
+#: software-issue-manager/includes/admin/glossary.php:219
+msgid "Status"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:121
+msgid "Sets the current status of an issue. Status accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:121
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "Status has a default value of:"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:121
+msgid " open"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:121
+msgid "The following are the preset values and value descriptions for <b>Status:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:122
+msgid "Open"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:123
+msgid "This issue is in the initial state, ready for the assignee to start work on it."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:126
+msgid "In Progress"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:127
+msgid "This issue is being actively worked on at the moment."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:130
+msgid "Reopened"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:131
+msgid "This issue was once 'Resolved' or 'Closed', but is now being re-visited, e.g. an issue with a Resolution of 'Cannot Reproduce' is Reopened when more information becomes available and the issue becomes reproducible. The next issue states are either marked In Progress, Resolved or Closed."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:134
+msgid "Closed"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:135
+msgid "This issue is complete."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:138
+msgid "Resolved - Fixed"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:139
+msgid "A fix for this issue has been implemented."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:142
+msgid "Resolved - Won't Fix"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:143
+msgid "This issue will not be fixed, e.g. it may no longer be relevant."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:146
+msgid "Resolved - Duplicate"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:147
+msgid "This issue is a duplicate of an existing issue. It is recommended you create a link to the duplicated issue by creating a related issue connection."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:150
+msgid "Resolved - Incomplete"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:151
+msgid "There is not enough information to work on this issue."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:154
+msgid "Resolved - CNR"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:155
+msgid "This issue could not be reproduced at this time, or not enough information was available to reproduce the issue. If more information becomes available, reopen the issue."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:162
+msgid "Tag"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:164
+msgid "Allows to tag issues to further classify or group related issues. Tag accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:164
+msgid "Tag does not have a default value"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:164
+msgid "There are no preset values for <b>Tag.</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:168
+msgid "Operating System"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Sets the operating system(s) that an issue may be reproduced in. Operating System accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Operating System does not have a default value"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "The following are the preset values for <b>Operating System:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows 8 (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows 7 (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows Vista (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows XP (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows Server 2008 R2 (64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows Server 2008 (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows Server 2003 (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Windows 2000 SP4"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Mac OS X 10.8 Mountain Lion (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Mac OS X 10.7 Lion (32-bit and 64-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Mac OS X 10.6 Snow Leopard (32-bit)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid " Mac OS X 10.5 Leopard"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Mac OS X 10.4 Tiger"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:170
+msgid "Linux (32-bit and 64-bit versions, kernel 2.6 or compatible)"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:172
+#: software-issue-manager/includes/admin/glossary.php:223
+msgid "Relationships"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:174
+msgid "Affected Projects"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:175
+msgid "Allows to display and create connections with Projects"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:175
+msgid "One instance of Issues can associated with many instances of Projects, and vice versa"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:175
+msgid "The relationship can be set up in the edit area of Issues using Affected Projects relationship box. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:175
+msgid "This relationship is required when publishing new Issues"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:180
+msgid "Projects"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:183
+msgid "A project is a collection of related issues. Projects have a unique version number, specific start and end dates."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:189
+msgid "Name"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:190
+msgid "Sets the name of a project. Name is a required field. Being a unique identifier, it uniquely distinguishes each instance of Project entity. Name does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:193
+msgid "Version"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:194
+msgid "Sets the version number of a project. Version is a required field. Being a unique identifier, it uniquely distinguishes each instance of Project entity. Version has a default value of <b>V1.0.0</b>."
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:197
+msgid "Start Date"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:198
+msgid "Sets the start date of a project. Start Date is a required field. Start Date does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:201
+msgid "Target End Date"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:202
+msgid "Sets the targeted end date of a project. Target End Date does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:205
+msgid "Actual End Date"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:206
+msgid "Sets the actual end date of a project. Actual End Date does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:210
+msgid "Allows to upload project related files. Documents does not have a default value. "
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "Sets the current priority of a project. Priority accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid " medium"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "Priority is a required field therefore must be assigned to a value"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "The following are the preset values for <b>Priority:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "Low"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "Medium"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:215
+msgid "High"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "Sets the current status of a project. Status accepts multiple values like tags"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid " draft"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "Status is a required field therefore must be assigned to a value"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "The following are the preset values for <b>Status:</b>"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "Draft"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "In Review"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "Published"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:221
+msgid "In Process"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:225
+msgid "Project Issues"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:226
+msgid "Allows to display and create connections with Issues"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:226
+msgid "One instance of Projects can associated with many instances of Issues, and vice versa"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:226
+msgid "The relationship can be set up in the edit area of Issues using Affected Projects relationship box"
+msgstr ""
+
+#: software-issue-manager/includes/admin/glossary.php:226
+msgid "This relationship is required when publishing new Projects"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:574
+msgid "Issue Entry"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:613
+msgid "Search Issues"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:626
+msgid "Sets the name of a project."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:639
+msgid "Sets the version number of a project."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:652
+msgid "Sets the start date of a project."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:667
+msgid "Sets the targeted end date of a project."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:682
+msgid "Sets the actual end date of a project."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:697
+msgid "Allows to upload project related files."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:708
+msgid "Sets a unique identifier for an issue."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:721
+msgid "Sets the targeted resolution date for an issue."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:736
+msgid "Sets a brief summary of the resolution of an issue."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:750
+msgid "Allows to upload files related to an issue."
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:949
+#: software-issue-manager/includes/class-install-deactivate.php:1126
+msgid "Priorities"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:986
+#: software-issue-manager/includes/class-install-deactivate.php:1093
+msgid "Statuses"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1048
+msgid "Categories"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1080
+msgid "Tags"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1155
+msgid "Browsers"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1190
+msgid "Operating Systems"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1246
+msgid "Mac OS X 10.5 Leopard"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1520
+msgid "New To Software Issue Manager? Review the documentation!"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1520
+#: software-issue-manager/includes/class-install-deactivate.php:1532
+msgid "&#187;"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1520
+#: software-issue-manager/includes/class-install-deactivate.php:1532
+msgid "Dismiss"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1532
+msgid "Get More Features You Need To Deliver The Best Software!"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1538
+msgid "Welcome to Software Issue Manager"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1539
+msgid "Setup Software Issue Manager Pages"
+msgstr ""
+
+#: software-issue-manager/includes/class-install-deactivate.php:1539
+msgid "Skip setup"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue-widgets.php:39
+msgid "Recent Issues"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue-widgets.php:39
+msgid "The most recent issues"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:190
+msgid "Featured Image"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:372
+#: software-issue-manager/includes/entities/class-emd-issue.php:769
+msgid "Issue"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:373
+msgid "Add New"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:374
+#: software-issue-manager/includes/entities/class-emd-issue.php:886
+msgid "Add New Issue"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:375
+msgid "Edit Issue"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:376
+msgid "New Issue"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:377
+#: software-issue-manager/includes/entities/class-emd-issue.php:885
+msgid "All Issues"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:378
+msgid "View Issue"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:380
+msgid "No Issues Found"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:381
+msgid "No Issues Found In Trash"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:440
+msgid "Search Priorities"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:441
+msgid "Popular Priorities"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:442
+#: software-issue-manager/includes/entities/class-emd-issue.php:493
+#: software-issue-manager/includes/entities/class-emd-issue.php:544
+#: software-issue-manager/includes/entities/class-emd-issue.php:595
+#: software-issue-manager/includes/entities/class-emd-issue.php:646
+#: software-issue-manager/includes/entities/class-emd-issue.php:697
+msgid "All"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:445
+msgid "Edit Priority"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:446
+msgid "Update Priority"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:447
+msgid "Add New Priority"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:448
+msgid "Add New Priority Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:449
+msgid "Seperate Priorities with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:450
+msgid "Add or Remove Priorities"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:451
+msgid "Choose from the most used Priorities"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:491
+msgid "Search Operating Systems"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:492
+msgid "Popular Operating Systems"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:496
+msgid "Edit Operating System"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:497
+msgid "Update Operating System"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:498
+msgid "Add New Operating System"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:499
+msgid "Add New Operating System Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:500
+msgid "Seperate Operating Systems with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:501
+msgid "Add or Remove Operating Systems"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:502
+msgid "Choose from the most used Operating Systems"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:542
+msgid "Search Categories"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:543
+msgid "Popular Categories"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:547
+msgid "Edit Category"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:548
+msgid "Update Category"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:549
+msgid "Add New Category"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:550
+msgid "Add New Category Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:551
+msgid "Seperate Categories with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:552
+msgid "Add or Remove Categories"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:553
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:593
+msgid "Search Tags"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:594
+msgid "Popular Tags"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:598
+msgid "Edit Tag"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:599
+msgid "Update Tag"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:600
+msgid "Add New Tag"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:601
+msgid "Add New Tag Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:602
+msgid "Seperate Tags with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:603
+msgid "Add or Remove Tags"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:604
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:644
+msgid "Search Browsers"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:645
+msgid "Popular Browsers"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:649
+msgid "Edit Browser"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:650
+msgid "Update Browser"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:651
+msgid "Add New Browser"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:652
+msgid "Add New Browser Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:653
+msgid "Seperate Browsers with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:654
+msgid "Add or Remove Browsers"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:655
+msgid "Choose from the most used Browsers"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:695
+msgid "Search Statuses"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:696
+msgid "Popular Statuses"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:700
+msgid "Edit Status"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:701
+msgid "Update Status"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:702
+msgid "Add New Status"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:703
+msgid "Add New Status Name"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:704
+msgid "Seperate Statuses with commas"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:705
+msgid "Add or Remove Statuses"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:706
+msgid "Choose from the most used Statuses"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:774
+msgid "Issue Info"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:783
+msgid "Custom Fields"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-issue.php:861
+msgid "CSV Import/Export"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:368
+#: software-issue-manager/includes/entities/class-emd-project.php:551
+#: software-issue-manager/includes/entities/class-emd-project.php:616
+msgid "Project"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:370
+msgid "Add New Project"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:371
+msgid "Edit Project"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:372
+msgid "New Project"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:373
+msgid "All Projects"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:374
+msgid "View Project"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:375
+#: software-issue-manager/includes/entities/class-emd-project.php:617
+msgid "Search Projects"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:376
+msgid "No Projects Found"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:377
+msgid "No Projects Found In Trash"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:556
+msgid "Project Info"
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:618
+msgid "No Projects found."
+msgstr ""
+
+#: software-issue-manager/includes/entities/class-emd-project.php:623
+msgid "No Issues found."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:62
+msgid "Please help us improve Software Issue Manager"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:64
+msgid "Allow eMDPlugins to collect your usage of Software Issue Manager. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:65
+msgid "If you skip this, that's okay! Software Issue Manager will still work just fine."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:68
+msgid "Do not allow"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:69
+msgid "Allow"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:76
+msgid "Please confirm your email address below to start receiving emails from us."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:85
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:86
+msgid "Your Profile Overview"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:86
+msgid "Name and email address"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:87
+msgid "Your Site Overview"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:87
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:88
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:137
+msgid "Hi, I noticed you just crossed the %d %s milestone - that's awesome!"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:139
+msgid "Hi, I just noticed you have been using Software Issue Manager for about a week now - that's awesome!"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:141
+msgid "Give <b>Software Issue Manager</b> a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> 5 star review <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> to help fellow WordPress users like YOU find it faster! <u>Your 5 star review</u> brings YOU a better FREE product and faster, motivated support when YOU need help."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:142
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:148
+msgid "Yes, I want a better FREE product and faster support"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:150
+msgid "I already did - Thank you"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:151
+msgid "No, I don't want a better FREE product and faster support"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:152
+msgid "I want to upgrade"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:154
+msgid "Maybe later"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:173
+msgid "Docs"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:174
+msgid "Pro Version"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:194
+msgid "Settings"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:211
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:212
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:213
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:214
+msgid "Cancel"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:215
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:216
+msgid "Would you like to open a support ticket?"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:217
+msgid "Please enter your email address."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:220
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:221
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:222
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:223
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:224
+#: software-issue-manager/includes/plugin-feedback-functions.php:231
+msgid "I found a better plugin"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:226
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:227
+msgid "The plugin is not working"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:228
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:229
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:230
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:240
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:241
+msgid "Other"
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:242
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:262
+msgid "Please share the plugin name."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:266
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:270
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and detailed description of what happened."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:274
+msgid "We are sorry to hear that. Please share the detailed description of what happened."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:278
+msgid "Please share what didn't work so we can fix it in the future releases."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:282
+msgid "Please share what you were looking for."
+msgstr ""
+
+#: software-issue-manager/includes/plugin-feedback-functions.php:286
+msgid "Please share what you expected."
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:75
+msgid "Please enter a unique value."
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:76
+msgid "required"
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:93
+msgid "Taxonomy"
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:106
+#: software-issue-manager/includes/scripts.php:111
+msgid "Relationship"
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:315
+#: software-issue-manager/includes/scripts.php:317
+#: software-issue-manager/includes/scripts.php:324
+#: software-issue-manager/includes/scripts.php:326
+msgid "Previous"
+msgstr ""
+
+#: software-issue-manager/includes/scripts.php:315
+#: software-issue-manager/includes/scripts.php:319
+#: software-issue-manager/includes/scripts.php:324
+#: software-issue-manager/includes/scripts.php:328
+msgid "Next"
+msgstr ""
+
+#: software-issue-manager/layouts/shc-sc-issues-header.php:1
+msgid "Below are your search results."
+msgstr ""
+
+#: software-issue-manager/layouts/shc-sc-issues-header.php:35
+#: software-issue-manager/layouts/shc-sc-issues-header.php:40
+msgid "Products"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:8
+msgid "Last modified"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:8
+msgid "by"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:8
+msgid "ago"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:29
+msgid "Issue #"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:65
+msgid "Description"
+msgstr ""
+
+#: software-issue-manager/layouts/single-emd-issue.php:66
+msgid "Details"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:253
+msgid "SIM Com"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:258
+msgid "Glossary"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:266
+msgid "Forms"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:274
+msgid "Plugins"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:278
+msgid "Support"
+msgstr ""
+
+#: software-issue-manager/software-issue-manager.php:297
+msgid "Licenses"
+msgstr ""

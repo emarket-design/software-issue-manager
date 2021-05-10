@@ -1,0 +1,128 @@
+.emd-plugin-modal {
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+    display: none;
+    height: 100%;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100000;
+}
+.emd-plugin-modal .emd-plugin-modal-dialog {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    left: 50%;
+    margin-left: -298px;
+    padding-bottom: 30px;
+    position: absolute;
+    top: -100%;
+    width: 596px;
+    z-index: 100001;
+}
+@media (max-width: 650px) {
+.emd-plugin-modal .emd-plugin-modal-dialog {
+    box-sizing: border-box;
+    margin-left: -50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.emd-plugin-modal .emd-plugin-modal-dialog .emd-plugin-modal-panel > h3 > strong {
+    font-size: 1.3em;
+}
+}
+.emd-plugin-modal .emd-plugin-modal-header{
+    border-bottom:#eeeeee solid 1px;
+    background:#fbfbfb;
+    padding:15px 20px;
+    position:relative;
+    margin-bottom:-10px
+}
+.emd-plugin-modal .emd-plugin-modal-header h4{
+    margin:0;
+    padding:0;
+    font-size:1.2em;
+    font-weight:bold;
+    text-shadow:1px 1px 1px #fff;
+    letter-spacing:0.6px;
+    -webkit-font-smoothing:antialiased
+}
+.emd-plugin-modal.active {
+    display: block;
+}
+.emd-plugin-modal.active::before {
+    display: block;
+}
+.emd-plugin-modal.active .emd-plugin-modal-dialog {
+    top: 10%;
+}
+.emd-plugin-modal .emd-plugin-modal-body, .emd-plugin-modal .emd-plugin-modal-footer {
+    background: #fefefe none repeat scroll 0 0;
+    border: 0 none;
+    padding: 20px;
+}
+.emd-plugin-modal .emd-plugin-modal-body {
+    border-bottom: 0 none;
+}
+.emd-plugin-modal .emd-plugin-modal-body p {
+    font-size: 14px;
+}
+.emd-plugin-modal .emd-plugin-modal-body h2 {
+    font-size: 20px;
+}
+.emd-plugin-modal .emd-plugin-modal-body > div {
+    margin-top: 10px;
+}
+.emd-plugin-modal .emd-plugin-modal-body > div h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+}
+.emd-plugin-modal .emd-plugin-modal-footer {
+    border-top: 1px solid #eeeeee;
+    text-align: right;
+}
+.emd-plugin-modal .emd-plugin-modal-footer > .button {
+    margin: 0 7px;
+}
+.emd-plugin-modal .emd-plugin-modal-footer > .button:first-child {
+    margin: 0;
+}
+.emd-plugin-modal .emd-plugin-modal-panel > .notice.inline {
+    display: none;
+    margin: 0;
+}
+.emd-plugin-modal .emd-plugin-modal-panel:not(.active) {
+    display: none;
+}
+body.has.emd-plugin-modal {
+    overflow: hidden;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback .reason-input, .emd-plugin-modal.emd-plugin-modal-deactivation-feedback .internal-message {
+    margin: 3px 0 3px 22px;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback .reason-input input, .emd-plugin-modal.emd-plugin-modal-deactivation-feedback .reason-input textarea, .emd-plugin-modal.emd-plugin-modal-deactivation-feedback .internal-message input, .emd-plugin-modal.emd-plugin-modal-deactivation-feedback .internal-message textarea {
+    width: 100%;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason.has-internal-message .internal-message {
+    border: 1px solid #cccccc;
+    display: none;
+    padding: 7px;
+}
+@media (max-width: 650px) {
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason li.reason {
+    margin-bottom: 10px;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason li.reason .reason-input, .emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason li.reason .internal-message {
+    margin-left: 29px;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason li.reason label {
+    display: table;
+}
+.emd-plugin-modal.emd-plugin-modal-deactivation-feedback li.reason li.reason label > span {
+    display: table-cell;
+    font-size: 1.3em;
+}
+}
+#the-list .deactivate > .emd-slug {
+    display: none;
+}

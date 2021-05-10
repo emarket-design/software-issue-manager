@@ -1,0 +1,82 @@
+.emd-admin-notice {
+    background: #fff;
+    border-color: #ED494D;
+    border-top: 4px;
+    display: block;
+    min-height: 68px;
+    position: relative;
+}
+.emd-notice-title {
+    font-size: 24px;
+    margin:5px 0;
+    color: #ed494d;
+    font-weight: 400;
+}
+.emd-notice-title span {
+    padding: 0 5px;
+}
+.emd-permissions {
+    padding: 10px 20px;
+}
+.emd-perm-trigger {
+   font-size: 0.9em;
+   text-align: center;
+}
+.emd-permissions ul li i.dashicons{
+   float:left;
+   font-size:40px;
+   width:40px;
+   height:40px;
+}
+.emd-permissions ul li div{
+   margin-left:55px
+}
+.emd-permissions ul li div span{
+   font-weight:bold;
+   text-transform:uppercase;
+   color:#23282d;
+}
+.emd-permissions ul li div p{
+   margin:2px 0 0 0
+}
+.emd-permissions ul{
+   height:auto;
+   margin:20px;
+}
+.emd-show-rateme:not(.success) {
+        color: green;
+        border-left-color: #e6db55;
+        font-weight: 700;
+        padding: 11px 15px 0 120px;
+        text-align: left;
+        font-family: "Open Sans", sans-serif;
+}
+
+.emd-show-rateme .emd-slug b {
+        color: #004fc4;
+}
+
+.emd-show-rateme.updated .rw-slug i {
+        color: #0094ff;
+}
+
+.emd-show-rateme.updated .rw-sep {
+        color: #ffba00;
+}
+
+.emd-show-rateme ul {
+        list-style-type: disc;
+        margin: 14px;
+        padding-left: 5px;
+}
+
+.emd-show-rateme {
+    background: #F6FFF7 url('https://www.gravatar.com/avatar/731548f83c83eea97a7a03a19664ca33?s=150&r=g&d=mm') no-repeat right 15px top 15px;
+    padding-right: 120px;
+    background-size: 95px;
+    max-width: 1200px;
+}
+
+.emd-show-rateme.success ul {
+        margin-bottom: 0;
+}

@@ -1,0 +1,114 @@
+.emd-licenses .form-table tr {
+    float: left;
+    margin: 0 15px 15px 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    width: 30.5%;
+    max-width: 350px;
+    padding: 14px;
+    min-height: 220px;
+    position: relative;
+    box-sizing: border-box;
+}
+.emd-licenses .form-table,
+.emd-licenses thead,
+.emd-licenses tbody,
+.emd-licenses tfoot,
+.emd-licenses tr,
+.emd-licenses td,
+.emd-licenses th,
+.emd-licenses caption {
+	display: block
+}
+.emd-licenses p.submit {
+    clear: both;
+}
+.emd-licenses .form-table th {
+    background: rgba(0, 0, 0, 0.04);
+	padding: 14px;
+	border-bottom: 1px solid #ccc;
+	margin: -14px -14px 20px;
+	width: 100%
+}
+.emd-licenses td input.regular-text {
+    margin: 0 0 8px;
+    width: 100%;
+}
+.emd-licenses .form-table td {
+    padding: 0;
+}
+.emd-licenses .emd-license-data[class*="emd-license-"] {
+	position: absolute;
+	background: #fafafa;
+	padding: 14px;
+	border-top: 1px solid #eee;
+	margin: 20px -14px -14px;
+	min-height: 67px;
+	width: 100%;
+	bottom: 14px;
+	box-sizing: border-box
+}
+.emd-licenses .emd-license-data[class*="emd-license-"] a {
+	color: #444
+}
+.emd-licenses .emd-license-data[class*="emd-license-"] a:hover {
+	text-decoration: none
+}
+.emd-licenses .emd-license-data.license-expires-soon-notice {
+	background-color: #FF9800;
+	color: #fff;
+	border-color: #FF9800;
+}
+.emd-licenses .emd-license-data.emd-license-expired {
+	background-color: #e24e4e;
+	color: #fff;
+border: 1px dashed #fff;
+}
+.emd-licenses .emd-license-data.emd-license-valid.license-expiration-date-notice{
+        background-color:#008000;
+        color: #fff;
+        border-color:#008000;
+}
+.emd-licenses .emd-license-data.emd-license-error,
+.emd-licenses .emd-license-data.emd-license-missing,
+.emd-licenses .emd-license-data.emd-license-invalid,
+.emd-licenses .emd-license-data.emd-license-site_inactive,
+.emd-licenses .emd-license-data.emd-license-item_name_mismatch {
+	background-color: #ffebcd;
+	border-color: #ffebcd
+}
+.emd-licenses .emd-license-data p {
+	font-size: 13px;
+	margin-top: 0;
+	font-weight: 400;
+}
+.emd-licenses .emd-license-data.license-expires-soon-notice a,
+.emd-licenses .emd-license-data.emd-license-expired a {
+	color: #fff
+}
+.emd-licenses .emd-license-data.license-expires-soon-notice a:hover,
+.emd-licenses .emd-license-data.emd-license-expired a:hover {
+	text-decoration: none
+}
+@media screen and ( max-width: 1100px) {
+	.emd-licenses .form-table tr {
+		width: 46%;
+		max-width: none;
+		min-height: 230px
+	}
+}
+@media screen and ( max-width: 782px) {
+	.license-lifetime-notice, .license-expiration-date-notice, .license-null {
+		padding-left: 0
+	}
+	[class^="license-"] input[type="text"] {
+		margin-bottom: 3px
+	}
+}
+@media screen and ( max-width: 600px) {
+	.emd-licenses .form-table tr {
+		width: 100%;
+		min-height: 230px
+	}
+}
+.license-no-key{color:red}

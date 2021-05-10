@@ -1,0 +1,94 @@
+#the-list .emd-plugin-card{
+    background-color: #fff;
+    border: 1px solid #dedede;
+    box-sizing: border-box;
+    float: left;
+    margin: 5px;
+    padding: 0 10px;
+    width: 320px;
+}
+#the-list a.thickbox {
+    font-size: 14px;
+}
+.emd-plugin-card-bottom {
+    border-top: 1px solid #dedede;
+    clear: both;
+    overflow: hidden;
+    padding: 12px 0;
+}
+.emd-plugin-card-top{
+position:relative;
+}
+.img-caption p.desc.column-description{
+    position: absolute;
+    bottom:-10px;
+	display:none;
+box-sizing: border-box;
+padding:10px;
+}
+div.img-caption:hover p.desc.column-description{
+display:block;
+color:white;
+background-color:black;
+height:200px;
+cursor:pointer;
+width:100%;
+} 
+.emd-plugin-card-bottom a.button-primary{
+   float:right;
+}
+.emd-plugin-card-bottom div.plugin-offers{
+  float:left;
+  width:200px;
+  color:red;
+  position:relative;
+}
+.emd-plugin-card-top div.name.column-name{
+  position:relative;
+}
+.emd-plugin-card-top div.name.column-name > span{
+    position: absolute;
+    right: 0;
+    top: -10px;
+    color:red;
+}
+div.support-table table td,
+div.support-table table th h5{
+font-size:16px;
+margin: 0.67em 0;
+}
+#plugin-review{
+padding-top:10px;
+}
+#plugin-review .plugin-review-star{
+color:#FEBE12;
+}
+#plugin-review .plugin-review-text,
+#plugin-review .plugin-review-star{
+display:inline-block;
+padding-right:10px;
+}
+#support-header{
+padding:10px 0;
+font-size:16px;
+}
+div.emd-container{
+padding: 30px;
+background-color: white
+}
+div.emd-container .feature-container{
+margin-bottom: 10px; 
+}
+div.plugin-review{
+padding:10px;
+}
+div.emd-container .feature-text{
+font-size: 1.5rem;
+line-height: 1.25;
+margin-bottom: 0.3125rem;
+}
+div.feature-container .dashicons-sos{
+font-size:40px;
+padding-right:20px;
+color:#1E8CBE;
+}

@@ -1,0 +1,11 @@
+.emd-mb-oembed-wrapper .spinner {
+	float: none;
+	vertical-align: top;
+	display: inline-block;
+}
+.emd-mb-oembed-wrapper .embed-code {
+	margin-top: 1em;
+}
+.emd-mb-oembed-wrapper .embed-code iframe {
+	max-width: 100%;
+}
